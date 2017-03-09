@@ -1,0 +1,25 @@
+
+
+
+		header {
+			font-size:80px;
+			text-transform: uppercase;
+		 }
+		 img{
+			max-width: 100%
+		 }
+		.head {
+			text-align: center;
+			position: relative;
+		}
+		 .content {
+		 	column-count: 3;
+		 }
+		 .subhead {
+		 	border-top: 2px solid #000;
+		 	border-bottom: 2px solid #000;
+		 	padding: 12px 0 12px 0;
+		 	text-transform: uppercase;
+		 }
+
+	
