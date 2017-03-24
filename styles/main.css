@@ -1,7 +1,4 @@
-
-
-
-	body {
+body {
     font-family:  Arial, sans-serif;
     font-size: 14px;
     background-color: #d7e1e2;
@@ -10,7 +7,7 @@ header {
     font-family: 'Playfair Display', serif;
     font-weight: bold;
     font-size: 80px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 img {
     max-width: 100%;
@@ -22,6 +19,7 @@ img {
 
 .content{
     margin: 30px 30px 30px 30px;
+    text-align: justify;
 }
 
 .subhead{
@@ -53,3 +51,7 @@ img {
     font-size: 24px;
     padding: 10px 0 10px 0;
 }
+
+		
+
+	
