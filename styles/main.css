@@ -2,7 +2,7 @@ body {
     font-family:  Arial, sans-serif;
     font-size: 14px;
     background-color: #efe9d9;
-}
+    }
 
 img {
     max-width: 100%;
@@ -13,22 +13,21 @@ img {
      border-top-left-radius: 50px; 
     border-bottom-right-radius: 50px;
      border-bottom-left-radius: 50px;
-
-}
+    }
+.collumn{
+    line-height: 30px;
+    column-count: 3;
+        }
+.content{
+    margin: 50px 100px 100px 100px;
+        }
 .head{     
     font-weight: bold;
     font-size: 70px;
     text-align: right;
     min-height: 100px;
     line-height: 80px;
-
-
-}
-
-.content{
-    margin: 50px 100px 100px 100px;
-}
-
+    }
 .subhead{
    font-weight: bold;
    font-size: 30px;
@@ -36,13 +35,8 @@ img {
    12px 0 12px 0;
    line-height: 50px;
    text-align: right;
-}
+    }
 
-.collumn{
-    line-height: 30px;
-    column-count: 3;
-
-}
 
 
 
